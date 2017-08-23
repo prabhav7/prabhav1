@@ -21,6 +21,7 @@ private static void swapNumbers(int i, int j, int[] array) {
     temp = array[i];
     array[i] = array[j];
     array[j] = temp;
+    
 }
 
 private static void printNumbers(int[] input) {
