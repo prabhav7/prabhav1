@@ -10,6 +10,7 @@ public class bubblesort {
                 swapNumbers(i, k, array);
             }
         }
+        
         printNumbers(array);
     }
 }
