@@ -30,6 +30,7 @@ private static void printNumbers(int[] input) {
         System.out.print(input[i] + ", ");
     }
     System.out.println("\n");
+    
 }
 public static void main(String[] args) {
     int[] input = { 4, 2, 9, 6, 23, 12, 34, 0, 1 };
